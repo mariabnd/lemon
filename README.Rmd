@@ -186,7 +186,8 @@ The legend grob, by itself.
 
 
 Originally brought to you by
-  [Baptiste Auguié](http://baptiste.github.io/)
+
+  [Baptiste Auguié](http://baptiste.github.io)
   (<https://github.com/tidyverse/ggplot2/wiki/Share-a-legend-between-two-ggplot2-graphs>)
   and 
   [Shaun Jackman](http://rpubs.com/sjackman)
